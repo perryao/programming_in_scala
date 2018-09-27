@@ -17,3 +17,4 @@ trait Common extends ScalaModule with ScalafmtModule {
 // From Chapter 34
 object firstswing extends Common {}
 object secondswing extends Common {}
+object reactiveswing extends Common {}
